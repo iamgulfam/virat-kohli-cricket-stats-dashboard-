@@ -71,8 +71,6 @@ Cricket statistics are scattered across multiple sources and formats. There is n
 
 ## 📊 Dashboard Preview
 
-> Add your dashboard screenshot below by replacing the placeholder.
-
 ![Virat Kohli Career Statistics Dashboard](images/virat_kohli_dashboard_image.png)
 
 **Dashboard includes:**
