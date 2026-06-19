@@ -93,11 +93,11 @@ Cricket statistics are scattered across multiple sources and formats. There is n
 
 1. Clone or download this repository
 2. Open `Virat_Kohli_Statistics_data.xlsx` in Excel
-3. Review Sheet1 for raw scraped data and Overall sheet for the clean dataset
+3. Review Sheet1 for raw scraped data and the Overall sheet for the clean dataset
 4. Open `Virat_Power_Bi_live.pbix` in Power BI Desktop
 5. If prompted, update the data source path to your local Excel file
 6. Click Refresh to reload data
-7. Use Format filter and Year Range slicer to explore the dashboard
+7. Use the Format filter and Year Range slicer to explore the dashboard
 
 ---
 
