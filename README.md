@@ -122,9 +122,9 @@ This project proves that meaningful sports analytics does not require Python or 
 ## 👤 Author and Contact
 
 **Gulfam Raza**
-B.Tech – Information Technology, RKGIT Ghaziabad
+🎓 B.Tech – Information Technology, RKGIT Ghaziabad
 
-🎓 **CGPA: 8.02 | First Division with Distinction**
+🏆 **CGPA: 8.02 | First Division with Distinction**
 
 Specialization: Data Analytics & its related roles.
 
